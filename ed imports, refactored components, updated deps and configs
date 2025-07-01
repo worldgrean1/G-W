@@ -1,0 +1,183 @@
+warning: in the working copy of '.eslintrc.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'CONTACT_FORM_TESTING.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'NETLIFY_DEPLOYMENT_GUIDE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/api/contact/route.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/brand-guidelines/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/client-layout.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/globals.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/cards/EnhancedProductCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/cards/IntegratedSolutionCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/cards/IntegratedSolutionsGrid.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/cards/PremiumCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/comparison/AdvancedProductComparison.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/GreenAbout.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/GreenContact.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/GreenFooter.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/GreenHome.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/GreenIntro.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/GreenProducts.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/GreenSolutions.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/sections/solutions-data.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/shared/OptimizedBackground.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/components/shared/OptimizedLoadingScreen.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/data/products-data.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/data/products.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/green/sister/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/layout.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/letterhead/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/letterhead/rich-text-editor.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/animations/card-border-power-flow.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/animations/power-flow-animation.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/animations/text/TypingTextAnimation.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/brand-guidelines.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/energy-pillars.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/inverter-showcase.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/layout/MainLayoutWrapper.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/mirt-stove-card.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/premium/MobileLandingDemo.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/premium/PremiumBackground.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/premium/PremiumHeader.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/premium/PremiumInteractiveDemo.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/shared/SplineBackground.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/shared/navigation/Logo.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/shared/navigation/NavigationMenu.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/static-nodes/inverter/InverterDisplay.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/static-nodes/inverter/InverterSimulation.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/static-nodes/inverter/InverterStatus.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/static-nodes/inverter/index.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/static-nodes/inverter/types.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/static-nodes/static-switch-node.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/theme-provider.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/LEDTextDisplay.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/ProductImagePlaceholder.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/SystemStatus.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/ThemeToggle.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/badge.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/button.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/card.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/grean-button.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/grean-card.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/input.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/label.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/tabs.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/textarea.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/ui/use-mobile.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eslint.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/use-mobile.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/useDesktopMode.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/useKeyboardShortcuts.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/useMobileGestures.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/usePerformanceMonitor.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/useTheme.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/useTypewriter.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'hooks/useWindowDimensions.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'lib/utils.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'next.config.mjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'postcss.config.mjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/logos/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'store/energySystemStore.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'styles/animations.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'styles/digital-display.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'styles/globals.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tailwind.config.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'types/howler.d.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'utils/audioGenerator.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'utils/error-logging.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'utils/sound.ts', LF will be replaced by CRLF the next time Git touches it
+ .eslintrc.json                                     |    5 [32m+[m[31m-[m
+ CONTACT_FORM_TESTING.md                            |   26 [32m+[m[31m-[m
+ NETLIFY_DEPLOYMENT_GUIDE.md                        |    6 [32m+[m
+ README.md                                          |    6 [32m+[m
+ app/api/contact/route.ts                           |  150 [32m+[m[31m-[m
+ app/brand-guidelines/page.tsx                      |    6 [32m+[m[31m-[m
+ app/client-layout.tsx                              |   67 [32m+[m[31m-[m
+ app/globals.css                                    |  158 [32m+[m[31m-[m
+ app/green/components/cards/EnhancedProductCard.tsx |  526 [32m++[m[31m--[m
+ .../components/cards/IntegratedSolutionCard.tsx    | 1515 [32m++++++[m[31m-----[m
+ .../components/cards/IntegratedSolutionsGrid.tsx   |  444 [32m++[m[31m--[m
+ app/green/components/cards/PremiumCard.tsx         |  330 [32m++[m[31m-[m
+ .../comparison/AdvancedProductComparison.tsx       | 1310 [32m+++++[m[31m----[m
+ app/green/components/sections/GreenAbout.tsx       |  622 [32m+++[m[31m--[m
+ app/green/components/sections/GreenContact.tsx     |  608 [32m+++[m[31m--[m
+ app/green/components/sections/GreenFooter.tsx      |   52 [32m+[m[31m-[m
+ app/green/components/sections/GreenHome.tsx        |  150 [32m+[m[31m-[m
+ app/green/components/sections/GreenIntro.tsx       |  345 [32m++[m[31m-[m
+ app/green/components/sections/GreenProducts.tsx    | 1995 [32m++++++++[m[31m------[m
+ app/green/components/sections/GreenSolutions.tsx   |  202 [32m+[m[31m-[m
+ app/green/components/sections/solutions-data.ts    |  250 [32m+[m[31m-[m
+ .../components/shared/OptimizedBackground.tsx      |  126 [32m+[m[31m-[m
+ .../components/shared/OptimizedLoadingScreen.tsx   |   82 [32m+[m[31m-[m
+ app/green/data/products-data.ts                    |  376 [32m+[m[31m--[m
+ app/green/data/products.ts                         |  130 [32m+[m[31m-[m
+ app/green/page.tsx                                 |  109 [32m+[m[31m-[m
+ app/green/sister/page.tsx                          |  769 [32m+++++[m[31m-[m
+ app/layout.tsx                                     |   42 [32m+[m[31m-[m
+ app/letterhead/page.tsx                            |  594 [32m+++[m[31m--[m
+ app/letterhead/rich-text-editor.css                |   23 [32m+[m[31m-[m
+ app/page.tsx                                       |  827 [32m+++[m[31m---[m
+ components/animations/card-border-power-flow.tsx   |  342 [32m++[m[31m-[m
+ components/animations/power-flow-animation.tsx     |   32 [32m+[m[31m-[m
+ components/animations/text/TypingTextAnimation.tsx |   30 [32m+[m[31m-[m
+ components/brand-guidelines.tsx                    | 2785 [32m+++++++++++++[m[31m-------[m
+ components/energy-pillars.tsx                      |  353 [32m++[m[31m-[m
+ components/inverter-showcase.tsx                   |  113 [32m+[m[31m-[m
+ components/layout/MainLayoutWrapper.tsx            |   28 [32m+[m[31m-[m
+ components/mirt-stove-card.tsx                     |  162 [32m+[m[31m-[m
+ components/premium/MobileLandingDemo.tsx           |   60 [32m+[m[31m-[m
+ components/premium/PremiumBackground.tsx           |   58 [32m+[m[31m-[m
+ components/premium/PremiumHeader.tsx               |   50 [32m+[m[31m-[m
+ components/premium/PremiumInteractiveDemo.tsx      |   42 [32m+[m[31m-[m
+ components/shared/SplineBackground.tsx             |   50 [32m+[m[31m-[m
+ components/shared/navigation/Logo.tsx              |   28 [32m+[m[31m-[m
+ components/shared/navigation/NavigationMenu.tsx    |  347 [32m+[m[31m--[m
+ .../static-nodes/inverter/InverterDisplay.tsx      |  230 [32m+[m[31m-[m
+ .../static-nodes/inverter/InverterSimulation.tsx   |   24 [32m+[m[31m-[m
+ .../static-nodes/inverter/InverterStatus.tsx       |   36 [32m+[m[31m-[m
+ components/static-nodes/inverter/index.tsx         |   94 [32m+[m[31m-[m
+ components/static-nodes/inverter/types.ts          |    4 [32m+[m[31m-[m
+ components/static-nodes/static-switch-node.tsx     |  178 [32m+[m[31m-[m
+ components/theme-provider.tsx                      |   20 [32m+[m[31m-[m
+ components/ui/LEDTextDisplay.tsx                   |   24 [32m+[m[31m-[m
+ components/ui/ProductImagePlaceholder.tsx          |   54 [32m+[m[31m-[m
+ components/ui/SystemStatus.tsx                     |  176 [32m+[m[31m-[m
+ components/ui/ThemeToggle.tsx                      |   54 [32m+[m[31m-[m
+ components/ui/badge.tsx                            |   14 [32m+[m[31m-[m
+ components/ui/button.tsx                           |   70 [32m+[m[31m-[m
+ components/ui/card.tsx                             |   52 [32m+[m[31m-[m
+ components/ui/grean-button.tsx                     |   46 [32m+[m[31m-[m
+ components/ui/grean-card.tsx                       |  127 [32m+[m[31m-[m
+ components/ui/input.tsx                            |   14 [32m+[m[31m-[m
+ components/ui/label.tsx                            |   29 [32m+[m[31m-[m
+ components/ui/tabs.tsx                             |   30 [32m+[m[31m-[m
+ components/ui/textarea.tsx                         |   39 [32m+[m[31m-[m
+ components/ui/use-mobile.tsx                       |    8 [32m+[m[31m-[m
+ eslint.config.js                                   |   17 [32m+[m[31m-[m
+ hooks/use-mobile.tsx                               |    2 [32m+[m[31m-[m
+ hooks/useDesktopMode.ts                            |   26 [32m+[m[31m-[m
+ hooks/useKeyboardShortcuts.ts                      |   72 [32m+[m[31m-[m
+ hooks/useMobileGestures.ts                         |   46 [32m+[m[31m-[m
+ hooks/usePerformanceMonitor.ts                     |    8 [32m+[m[31m-[m
+ hooks/useTheme.ts                                  |   36 [32m+[m[31m-[m
+ hooks/useTypewriter.ts                             |   15 [32m+[m[31m-[m
+ hooks/useWindowDimensions.tsx                      |   14 [32m+[m[31m-[m
+ lib/utils.ts                                       |    4 [32m+[m[31m-[m
+ next.config.mjs                                    |   98 [32m+[m[31m-[m
+ package-lock.json                                  |  105 [32m+[m
+ package.json                                       |    1 [31m-[m
+ postcss.config.mjs                                 |    2 [32m+[m[31m-[m
+ public/logos/README.md                             |    6 [32m+[m
+ store/energySystemStore.ts                         |   40 [32m+[m[31m-[m
+ styles/animations.css                              |    4 [32m+[m[31m-[m
+ styles/digital-display.css                         |    8 [32m+[m[31m-[m
+ styles/globals.css                                 |   88 [32m+[m[31m-[m
+ tailwind.config.ts                                 |  141 [32m+[m[31m-[m
+ types/howler.d.ts                                  |    2 [32m+[m[31m-[m
+ utils/audioGenerator.ts                            |   30 [32m+[m[31m-[m
+ utils/error-logging.ts                             |   14 [32m+[m[31m-[m
+ utils/sound.ts                                     |   92 [32m+[m[31m-[m
+ 91 files changed, 11269 insertions(+), 7256 deletions(-)
