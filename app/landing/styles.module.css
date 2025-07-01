@@ -1,0 +1,96 @@
+/* Responsive Grid Layout for Landing Page */
+
+.landingGrid {
+  display: grid;
+  grid-template-rows: 10% 25% 45% 20%; /* Height distribution as suggested in the wireframe */
+  min-height: 100vh;
+  width: 100%;
+  overflow: hidden; /* Prevent scrollbars unless necessary */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .landingGrid {
+    grid-template-rows: auto auto auto auto; /* Switch to auto sizing on mobile */
+    gap: 2rem; /* Add some spacing between sections */
+  }
+}
+
+/* Interactive section specific styles */
+.interactiveSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  width: 100%;
+  height: 100%;
+  padding: 0 2rem;
+}
+
+/* Responsive adjustments for interactive section */
+@media (max-width: 768px) {
+  .interactiveSection {
+    flex-direction: column;
+    gap: 3rem;
+  }
+}
+
+/* Component sizing */
+.inverterContainer {
+  width: 20%; /* ~20-25% as suggested */
+  max-width: 300px;
+  height: auto;
+}
+
+.switchContainer {
+  width: 10%; /* ~10-15% as suggested */
+  max-width: 150px;
+  height: auto;
+}
+
+/* Power flow connector */
+.powerFlowConnector {
+  flex-grow: 1;
+  height: 6px;
+  background: linear-gradient(90deg, rgba(61, 213, 109, 0.2) 0%, rgba(61, 213, 109, 0.8) 100%);
+  position: relative;
+  align-self: center;
+}
+
+/* Power flow animation */
+.powerFlowAnimation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(61, 213, 109, 0) 0%, rgba(61, 213, 109, 1) 50%, rgba(61, 213, 109, 0) 100%);
+  background-size: 200% 100%;
+  animation: flowAnimation 2s infinite linear;
+}
+
+@keyframes flowAnimation {
+  0% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
+}
+
+/* Consistent padding/margins */
+.sectionPadding {
+  padding: 0 2rem;
+}
+
+@media (min-width: 640px) {
+  .sectionPadding {
+    padding: 0 4rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .sectionPadding {
+    padding: 0 6rem;
+  }
+} 
